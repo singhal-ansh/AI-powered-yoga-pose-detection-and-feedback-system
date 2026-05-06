@@ -1,0 +1,5 @@
+train: output/train/images
+val: output/val/images
+
+nc: 5
+names: ['downdog', 'goddess', 'plank', 'tree', 'warrior2']
