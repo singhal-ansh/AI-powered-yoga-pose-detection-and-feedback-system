@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyCharm/IDE files
+.idea/
+*.iml
+
+# Logs and output
+*.log
+runs/
+
+# Dataset artifacts
+output/
+
+# Temporary files
+*.tmp
+*.temp
